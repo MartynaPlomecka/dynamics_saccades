@@ -1,8 +1,3 @@
-# dynamics_saccades
+### Secondary Control Dynamics in Ballistic Visual Saccades
 
 
-before executing matlab scripts, run:
-
-restoredefaultpath
-rehash toolboxcache
-savepath
